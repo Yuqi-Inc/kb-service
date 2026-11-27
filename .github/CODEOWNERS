@@ -1,4 +1,4 @@
-# 部门内容：部门负责人 + 总经办（负责人本人修改时由总经办批准）
-*                  @HenryC-3 @Yuqi-Inc/general-office
-# 任命负责人只能由总经办批准
+# 部门内容：部门负责人 Team + 总经办
+*                  @Yuqi-Inc/service-leads @Yuqi-Inc/general-office
+# 负责人名单只能由总经办修改
 /.github/          @Yuqi-Inc/general-office
